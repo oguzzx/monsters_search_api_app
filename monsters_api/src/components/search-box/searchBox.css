@@ -1,0 +1,10 @@
+.search-box{
+    border: none;
+    height: 40px;
+    font-size: 20px;
+    width: 180px;
+    text-align: center;
+}
+.search-box:focus{
+    outline: none;
+}
